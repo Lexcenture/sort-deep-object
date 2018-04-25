@@ -1,0 +1,24 @@
+{
+  "name": "sort-deep-object",
+  "version": "1.0.0",
+  "description": "sort complex objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sort",
+    "object",
+    "array"
+  ],
+  "author": "lexcenture",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1",
+    "sinon-chai": "^3.0.0"
+  }
+}
