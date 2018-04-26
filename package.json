@@ -2,6 +2,9 @@
   "name": "sort-deep-object",
   "version": "1.0.0",
   "description": "sort complex objects",
+  "engines": {
+    "node": ">=6.0.0"
+  },
   "main": "index.js",
   "scripts": {
     "test": "mocha --recursive \"./**/*.spec.js\""
