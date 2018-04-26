@@ -5,6 +5,15 @@
   "engines": {
     "node": ">=6.0.0"
   },
+  "homepage": "https://github.com/lexcenture/sort-deep-object",
+  "author": "Baktash Ahmed (https://github.com/lexcenture)",
+  "maintainers": [
+    "Baktash Ahmed (https://github.com/lexcenture)"
+  ],
+  "repository": "lexcenture/sort-deep-object",
+  "bugs": {
+    "url": "https://github.com/lexcenture/sort-deep-object/issues"
+  },
   "main": "index.js",
   "scripts": {
     "test": "mocha --recursive \"./**/*.spec.js\""
@@ -16,7 +25,6 @@
     "recursive",
     "hash"
   ],
-  "author": "lexcenture",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.10"
